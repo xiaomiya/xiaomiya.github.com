@@ -1,0 +1,16 @@
+.highlight {
+  font-size: 1.4rem; }
+  .highlight table {
+    width: 100%;
+    text-align: left;
+    border: 0; }
+  .highlight tr, .highlight th, .highlight td {
+    border: 0; }
+  .highlight .gutter {
+    background-color: #313131;
+    text-align: center;
+    font-size: 1.2rem; }
+  .highlight .code {
+    background-color: rgba(0, 0, 0, 0.5); }
+  .highlight .line {
+    line-height: 2.2rem; }
